@@ -1,6 +1,6 @@
 # Introduction
 
-This document introduces consent handling during an active data exchange using data wallets. In this paper, we have assumed the use of Hyperledger Indy as the  DLT and Hyperledger aries cloud and mobile agents as part of this **Decentralised DataExchange project**.
+This document introduces consent handling during an active data exchange using data wallets. In this paper, we have assumed the use of Hyperledger Indy as the  DLT and Hyperledger aries cloud and mobile agents as part of this **Decentralised DataExchange project**. 
 
 With the use of this distribution and connecting to a data operator service providing consented data exchange, the target is to convert any application to a **Trusted Digital Agent (TDA)**. 
 
@@ -59,6 +59,7 @@ In our reference implementation, we have the individual (Alice) holding her heal
 In this solution we use a hyperledger indy based decentralised ledger, available at https://indy.igrant.io/. More details are provided in the second delivery (eSSIF-Lab: Trusted Digital Assistant -  Contributions to eSSIFLab and SSI). The actors, their roles are also covered in that deliverable.
 
 # Consent scenarios
+In the content of data exchange, attempts are made to align the terminologies as per MyData Operator (Ref. [6]).
 
 | Individual usage scenario  | Data Source |  Consent  | Data Using Service | Why consent or agreement | 
 | ------------- | ------------- | ---------- | ------------- | ------------- | 
@@ -71,7 +72,8 @@ In this solution we use a hyperledger indy based decentralised ledger, available
 1. Data protection in the EU and Regulation (EU) 2016/679: Available at: [https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
 2. GDPR reference: [https://gdpr-info.eu/](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
 3. Consent as per GDPR: [https://gdpr-info.eu/issues/consent/](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
-4. iGrant.io Data Operator developer APIs: 
 5. Aries 0167 Consent Lifecycle, Available at : [https://github.com/hyperledger/](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)aries-rfcs/tree/master/concepts/0167-data-consent-lifecycle
-6. Data4Life open source assets: [https://github.com/Data4Life-Initiative](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
-7. eSSIF-Lab open source assets created: [https://github.com/decentralised-dataexchange](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
+6. iGrant.io Data Operator developer APIs: [https://developer.igrant.io/](https://developer.igrant.io/) 
+7. Understanding MyData Operator, [whitepaper publised 29-April-2020](https://mydata.org/wp-content/uploads/sites/5/2020/04/Understanding-Mydata-Operators-pages.pdf)
+7. . Data4Life open source assets: [https://github.com/Data4Life-Initiative](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
+8. . eSSIF-Lab open source assets created: [https://github.com/decentralised-dataexchange](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
