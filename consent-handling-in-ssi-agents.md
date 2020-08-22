@@ -1,8 +1,10 @@
 # Introduction
 
-This document introduces consent handling during an active data exchange using data wallets. In this paper, we have assumed the use of Hyperledger Indy as the  DLT and Hyperledger aries cloud and mobile agents as part of this **Decentralised DataExchange project**. 
+This document introduces consent handling during an active data exchange using data wallets. In this paper, we have assumed the use of Hyperledger Indy as the DLT and Hyperledger-aries cloud and mobile agents as part of this **Decentralised DataExchange project**.
 
-With the use of this distribution and connecting to a data operator service providing consented data exchange, the target is to convert any application to a **Trusted Digital Agent (TDA)**. 
+This document is written to align with legal views with the use of consents and agreement during a data exchange scenario. 
+
+The target of this work is to build a software distribution connecting a data operator service providing consented data exchange, the target is to convert any application to a **Trusted Digital Agent (TDA)**.
 
 # Active and passive data sharing
 Active data exchange here means an individual is involved in the process during transfer of data, for example via use of data wallets.
@@ -59,7 +61,7 @@ In our reference implementation, we have the individual (Alice) holding her heal
 In this solution we use a hyperledger indy based decentralised ledger, available at https://indy.igrant.io/. More details are provided in the second delivery (eSSIF-Lab: Trusted Digital Assistant -  Contributions to eSSIFLab and SSI). The actors, their roles are also covered in that deliverable.
 
 # Consent scenarios
-In the content of data exchange, attempts are made to align the terminologies as per MyData Operator (Ref. [6]).
+The various consent or agreement scenarios during an active data exchange for the reference case is given below. Attempts are made to align the terminologies as per MyData Operator (Ref. [6]).
 
 | Individual usage scenario  | Data Source |  Consent  | Data Using Service | Why consent or agreement | 
 | ------------- | ------------- | ---------- | ------------- | ------------- | 
