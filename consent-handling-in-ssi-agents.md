@@ -75,5 +75,5 @@ In the content of data exchange, attempts are made to align the terminologies as
 5. Aries 0167 Consent Lifecycle, Available at : [https://github.com/hyperledger/](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)aries-rfcs/tree/master/concepts/0167-data-consent-lifecycle
 6. iGrant.io Data Operator developer APIs: [https://developer.igrant.io/](https://developer.igrant.io/) 
 7. Understanding MyData Operator, [whitepaper publised 29-April-2020](https://mydata.org/wp-content/uploads/sites/5/2020/04/Understanding-Mydata-Operators-pages.pdf)
-7. . Data4Life open source assets: [https://github.com/Data4Life-Initiative](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
-8. . eSSIF-Lab open source assets created: [https://github.com/decentralised-dataexchange](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
+7. Data4Life open source assets: [https://github.com/Data4Life-Initiative](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
+8. eSSIF-Lab open source assets created: [https://github.com/decentralised-dataexchange](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)
