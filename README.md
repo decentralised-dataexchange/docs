@@ -1,3 +1,3 @@
 # System Documentation
 
-This repo contains all system documents needed to describe consent handling in a active data exchante using Hyperledger Aries/Indy. This is initiatited as part of NGI Trust eSSIF-Lab work.
+This repo contains all system documents needed to describe consent lifecycle handling in a active data exchange using Hyperledger Aries/Indy. This is initiated as part of NGI Trust eSSIF-Lab work
