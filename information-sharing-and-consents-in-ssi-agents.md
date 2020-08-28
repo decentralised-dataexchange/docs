@@ -1,4 +1,4 @@
-# Information sharing agreement and consent handling in SSI implementation 
+# Information sharing agreement and consents in SSI 
 
 ## Table Of Contents
 - [Introduction](#introduction)
