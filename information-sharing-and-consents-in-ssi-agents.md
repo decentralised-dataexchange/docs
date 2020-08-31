@@ -18,7 +18,7 @@ This document introduces consent handling during an active data exchange using d
 
 This document is a **discussion paper** written to align technical and legal views in the use of consents and agreements during a data exchange scenario. 
 
-The target of this work is to build a software distribution connecting a data operator service providing consented data exchange, the target is to convert any application to a **Trusted Digital Agent (TDA)**.
+The target of this work is to build a software distribution connecting a data operator service providing consented data exchange to SSI data exchange mechanisms, converting any application to a **Trusted Digital Agent (TDA)**.
 
 ## Active and passive data sharing
 Active data exchange here means an individual is involved in the process during transfer of data, for example via use of data wallets. Passive data exchange means information is shared from one entity (an org, a machine) to another entity without the individual actively involved in that data exchange.
