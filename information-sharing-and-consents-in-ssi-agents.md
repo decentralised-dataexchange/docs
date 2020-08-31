@@ -118,8 +118,7 @@ While recording consents, following points are to be noted:
 </table>
 
 
-In addition to the individual rights. These GDPR regulations are fulfilled: 
-
+In addition to the individual rights, these GDPR regulations are fulfilled: 
 
 <table>
   <tr>
